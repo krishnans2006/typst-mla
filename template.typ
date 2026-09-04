@@ -60,6 +60,9 @@
       date
     }
 
+    // Title has paragraph spacing before = 30pt
+    #v(30pt)
+
     #align(center, title)
   ]
 
